@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testio/static/css/main.756af292.css",
+    "main.js": "/testio/static/js/main.5e2cc624.js",
+    "static/js/787.762813b2.chunk.js": "/testio/static/js/787.762813b2.chunk.js",
+    "static/media/logo.svg": "/testio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/testio/index.html",
+    "main.756af292.css.map": "/testio/static/css/main.756af292.css.map",
+    "main.5e2cc624.js.map": "/testio/static/js/main.5e2cc624.js.map",
+    "787.762813b2.chunk.js.map": "/testio/static/js/787.762813b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.5e2cc624.js"
+  ]
+}
